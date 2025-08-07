@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__cloudflare-bindings__d1_databases_list",
+      "Bash(gh repo list:*)"
+    ],
+    "deny": []
+  }
+}
